@@ -1,6 +1,4 @@
-<div class="note">
-💡 This page uses Markdown. Not sure how to format things? See the <a href="https://github.com/DLA-PSU/personal-site-template#basic-markdown-formatting">Markdown guide</a> in the README.
-</div>  <!-- (delete all above here on your file)-->
+
 
 # Curriculum Vitae
 
