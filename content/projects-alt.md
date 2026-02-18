@@ -1,7 +1,4 @@
-<div class="note">
-💡 This page uses Markdown. Not sure how to format things? See the <a href="https://github.com/DLA-PSU/personal-site-template#basic-markdown-formatting">Markdown guide</a> in the README.
-</div> 
-And if you need to hide this page, go to the template.html file and delate the line about it on the navigation content. <!-- (delete all above here on your file)-->
+
 
 # Mis Proyectos
 
